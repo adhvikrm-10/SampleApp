@@ -1,5 +1,4 @@
 package com.example.smartcampusattendance.data.database
-
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import com.example.smartcampusattendance.data.dao.ClassDao
