@@ -1,1 +1,1 @@
-# SampleApp
+# SmartAttendanceApp
